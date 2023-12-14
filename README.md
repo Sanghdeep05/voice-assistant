@@ -1,0 +1,1 @@
+I Developed a basic voice assistant capable of executing simple tasks through voice commands. Implemented functionalities such as responding to greetings, providing predefined responses, fetching time or date information, and conducting web searches based on user queries.
